@@ -17,7 +17,7 @@ const MoreContent = () => {
   }
 
   return (
-    <main className="flex min-h-screen w-screen px-6 md:px-20 py-10 h-full bg-[#000000]">
+    <main className="flex min-h-screen items-center justify-center md:flex w-screen px-6 md:px-20 py-10 h-full bg-[#000000]">
       <div className="flex md:ml-10  w-[90%] flex-col">
         <h1 className="text-xl md:text-2xl flex text-left font-bold text-white ">
           Trending now

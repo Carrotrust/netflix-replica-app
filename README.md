@@ -37,7 +37,7 @@ A Netflix-inspired web application built using **React, Vite, and Tailwind CSS**
 
 ## 📃 Note
 
-This project is focused on replicating the **UI** of Netflix with some functionality and does not include features like authentication, real-time streaming, or a backend. However, you are welcome to extend its functionality! Also to note, this is the netflix site in Nigeria, as you know netflix site changes frequently, so it might look different from the  site
+This project is focused on replicating the **UI** of Netflix with some functionality and does not include features like authentication, real-time streaming, or a backend. However, you are welcome to extend its functionality! 
 
 ## 💪 Contributing
 

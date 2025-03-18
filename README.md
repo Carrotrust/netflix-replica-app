@@ -35,6 +35,25 @@ A Netflix-inspired web application built using **React, Vite, and Tailwind CSS**
    ```  
 4. Open your browser and go to `http://localhost:5173/` (or the port Vite assigns).
 
+
+## Screenshots
+
+### Homepage  
+![Homepage](../new-project/src/screenshots/Homepage.png)
+
+### Movie Details  
+![Movie Details](../new-project/src/screenshots/MovieDetails.png)
+
+### FAQ 
+![Homepage](../new-project/src/screenshots/FAQ.png)
+
+### Footer  
+![Homepage](../new-project/src/screenshots//Footer.png)
+
+### SignIn  
+![Homepage](../new-project/src/screenshots//SignIn.png)
+
+
 ## 📃 Note
 
 This project is focused on replicating the **UI** of Netflix with some functionality and does not include features like authentication, real-time streaming, or a backend. However, you are welcome to extend its functionality! 

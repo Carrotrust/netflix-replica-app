@@ -39,19 +39,19 @@ A Netflix-inspired web application built using **React, Vite, and Tailwind CSS**
 ## Screenshots
 
 ### Homepage  
-![Homepage](../new-project/screenshots/Homepage.png)
+![Homepage](./screenshots/Homepage.png)
 
 ### Movie Details  
-![Movie Details](../new-project/screenshots/MovieDetails.png)
+![Movie Details](./screenshots/MovieDetails.png)
 
 ### FAQ 
-![Homepage](../new-project/screenshots/FAQ.png)
+![Homepage](./screenshots/FAQ.png)
 
 ### Footer  
-![Homepage](../new-project/screenshots//Footer.png)
+![Homepage](./screenshots/Footer.png)
 
 ### SignIn  
-![Homepage](../new-project/screenshots//SignIn.png)
+![Homepage](./screenshots/SignIn.png)
 
 
 ## 📃 Note

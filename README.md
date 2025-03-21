@@ -64,5 +64,5 @@ If you would like to contribute, feel free to fork the repository and submit a *
 
 ## Update
 
-I did deploy this project, however it was flagged by google, as a dangerous site,the reason was because it's so identical to the main netflix site, it was flagged for "phishing", i decided to remove it from vercel
+I did deploy this project, however it was flagged by google, as a dangerous site,the reason was because it's so identical to the main netflix site, it was flagged for "phishing", i decided to remove it from vercel. The screenshots are shown above.
 
